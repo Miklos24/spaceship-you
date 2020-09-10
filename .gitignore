@@ -1,1 +1,2 @@
+#ignore all node modules
 /frontend/node_modules/**
