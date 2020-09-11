@@ -1,11 +1,5 @@
 #ignore stuff that is our own / local
 /frontend/node_modules/**
-/venv/*
-cloud_sql_proxy
 
-#ignore pycache
-/frontend/__pycache__
-/spaceship-you/__pycache__
-/zones/__pycache__
-/zones/migrations/__pycache__
-frontend/migrations/__pycache__
+/cloud_sql_proxy
+**/*.pyc
