@@ -1,2 +1,5 @@
 #ignore all node modules
 /frontend/node_modules/**
+
+cloud_sql_proxy*
+**/*.pyc
