@@ -1,5 +1,5 @@
 #ignore stuff that is our own / local
 /frontend/node_modules/**
-
+/venv/**
 /cloud_sql_proxy
 **/*.pyc
